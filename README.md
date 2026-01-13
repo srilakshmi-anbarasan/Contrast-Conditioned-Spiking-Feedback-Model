@@ -1,4 +1,4 @@
-# STA 141 — Neural Spiking & Behavioral Feedback Modeling (R)
+# Spikes to Signals: Modeling Mouse Feedback from Neural Spiking Data
 
 ## Overview
 This project analyzes 18 experimental mouse sessions stored as `.rds` files. It builds a combined dataset of trial-level behavioral outcomes and neural spiking activity, explores summary statistics and visualizations, normalizes neural activity across sessions, and trains multiple predictive models to classify feedback outcomes based on stimulus contrasts and neural features.
